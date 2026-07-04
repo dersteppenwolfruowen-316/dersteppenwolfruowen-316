@@ -15,15 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
----
-
-Hey, I'm Ruowen.
-
-- currently M.S. Information Science student at Cornell University  
-- build anything valuable and extremely interesting  
-- recent interests in multimodal systems and agents  
-- short-term career goal is to focus on AI algorithms and development  
-- in my free time I like developing indie game   
+ 
 
 <div align="center">
 
