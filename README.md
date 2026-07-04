@@ -1,4 +1,4 @@
-<p align="center">P(Xₙ₊₁ ∣ Xₙ) 🎆</p>
+<p align="center">𝑃(𝑋ₙ₊₁ ∣ 𝑋ₙ) 🎆</p>
 ## Hi there 👋
 
 <!--
