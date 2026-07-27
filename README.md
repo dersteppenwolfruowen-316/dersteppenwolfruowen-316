@@ -1,4 +1,4 @@
-<p align="center">𝑃(𝑋ₙ₊₁ ∣ 𝑋ₙ) 🎆</p>
+<p align="center">𝑃(𝑋ₙ₊₁ ∣ 𝑋ₙ) ⚛️</p>
 
 <!--
 **dersteppenwolfruowen-316/dersteppenwolfruowen-316** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
