@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="60" viewBox="0 0 560 60">
+  <defs>
+    <linearGradient id="g" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="520" y2="0">
+      <stop offset="0%"   stop-color="#6366F1"/>
+      <stop offset="55%"  stop-color="#8B7CFF"/>
+      <stop offset="100%" stop-color="#C084FC"/>
+    </linearGradient>
+    <clipPath id="c">
+      <rect x="0" y="0" height="60" width="0">
+        <animate attributeName="width" dur="2.4s" fill="freeze"
+                 calcMode="discrete"
+                 values="0;28;56;84;112;140;168;196;224;252;280;308;336;364;392;420;448;476;520"/>
+      </rect>
+    </clipPath>
+  </defs>
+
+  <text x="20" y="40" clip-path="url(#c)" fill="url(#g)"
+        font-family="'JetBrains Mono', 'SFMono-Regular', Menlo, Consolas, monospace"
+        font-size="28" font-weight="700">Hi, I am Ruowen.</text>
+
+  <rect x="0" y="12" width="3" height="32" fill="#8B7CFF">
+    <animate attributeName="x" dur="2.4s" fill="freeze" calcMode="discrete"
+             values="20;48;76;104;132;160;188;216;244;272;300;328;356;384;412;440;468;496;524"/>
+    <animate attributeName="opacity" values="1;0;1" dur="1s" begin="2.4s" repeatCount="indefinite"/>
+  </rect>
+</svg>
