@@ -1,26 +1,23 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="560" height="60" viewBox="0 0 560 60">
   <defs>
-    <linearGradient id="g" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="520" y2="0">
-      <stop offset="0%"   stop-color="#6366F1"/>
-      <stop offset="55%"  stop-color="#8B7CFF"/>
+    <linearGradient id="g" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="560" y2="0">
+      <stop offset="0%" stop-color="#6366F1"/>
+      <stop offset="55%" stop-color="#8B7CFF"/>
       <stop offset="100%" stop-color="#C084FC"/>
     </linearGradient>
-    <clipPath id="c">
-      <rect x="0" y="0" height="60" width="0">
-        <animate attributeName="width" dur="2.4s" fill="freeze"
-                 calcMode="discrete"
-                 values="0;28;56;84;112;140;168;196;224;252;280;308;336;364;392;420;448;476;520"/>
-      </rect>
-    </clipPath>
+    <clipPath id="c1"><rect x="145.6" y="0" height="60" width="0">
+      <animate attributeName="width" dur="12s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.0312;0.0425;0.0538;0.065;0.0763;0.0875;0.0988;0.11;0.1213;0.1325;0.1438;0.155;0.1663;0.1775;0.1888;0.2;0.45" values="0;16.8;33.6;50.4;67.2;84;100.8;117.6;134.4;151.2;168;184.8;201.6;218.4;235.2;252;268.8;0"/>
+    </rect></clipPath>
+    <clipPath id="c2"><rect x="53.2" y="0" height="60" width="0">
+      <animate attributeName="width" dur="12s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.5;0.5111;0.5222;0.5333;0.5444;0.5556;0.5667;0.5778;0.5889;0.6;0.6111;0.6222;0.6333;0.6444;0.6556;0.6667;0.6778;0.6889;0.7;0.7111;0.7222;0.7333;0.7444;0.7556;0.7667;0.7778;0.7889;0.8;0.95" values="0;0;16.8;33.6;50.4;67.2;84;100.8;117.6;134.4;151.2;168;184.8;201.6;218.4;235.2;252;268.8;285.6;302.4;319.2;336;352.8;369.6;386.4;403.2;420;436.8;453.6;0"/>
+    </rect></clipPath>
   </defs>
-
-  <text x="20" y="40" clip-path="url(#c)" fill="url(#g)"
-        font-family="'JetBrains Mono', 'SFMono-Regular', Menlo, Consolas, monospace"
-        font-size="28" font-weight="700">Hi, I am Ruowen.</text>
-
-  <rect x="0" y="12" width="3" height="32" fill="#8B7CFF">
-    <animate attributeName="x" dur="2.4s" fill="freeze" calcMode="discrete"
-             values="20;48;76;104;132;160;188;216;244;272;300;328;356;384;412;440;468;496;524"/>
-    <animate attributeName="opacity" values="1;0;1" dur="1s" begin="2.4s" repeatCount="indefinite"/>
+  <g font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace" font-size="28" font-weight="700" fill="url(#g)">
+    <text x="145.6" y="40" clip-path="url(#c1)">Hi, I am Ruowen.</text>
+    <text x="53.2" y="40" clip-path="url(#c2)">exploring LLM / VLM / Agent</text>
+  </g>
+  <rect y="12" width="3" height="32" fill="#8B7CFF">
+    <animate attributeName="x" dur="12s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.0312;0.0425;0.0538;0.065;0.0763;0.0875;0.0988;0.11;0.1213;0.1325;0.1438;0.155;0.1663;0.1775;0.1888;0.2;0.45;0.5111;0.5222;0.5333;0.5444;0.5556;0.5667;0.5778;0.5889;0.6;0.6111;0.6222;0.6333;0.6444;0.6556;0.6667;0.6778;0.6889;0.7;0.7111;0.7222;0.7333;0.7444;0.7556;0.7667;0.7778;0.7889;0.8;0.95" values="145.6;162.4;179.2;196;212.8;229.6;246.4;263.2;280;296.8;313.6;330.4;347.2;364;380.8;397.6;414.4;53.2;70;86.8;103.6;120.4;137.2;154;170.8;187.6;204.4;221.2;238;254.8;271.6;288.4;305.2;322;338.8;355.6;372.4;389.2;406;422.8;439.6;456.4;473.2;490;506.8;145.6"/>
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
   </rect>
 </svg>
