@@ -18,7 +18,7 @@
 - Currently an information science master's student at Cornell
 - Building LLM / VLM post-training
 - Open to AI or applied mathematics research positions
-- I like math and music
+- I like math, music, and algorithms
 
 </div>
 
