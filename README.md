@@ -1,33 +1,17 @@
 <p align="center">𝑃(𝑋ₙ₊₁ ∣ 𝑋ₙ) ⚛️</p>
 
-<!--
-**dersteppenwolfruowen-316/dersteppenwolfruowen-316** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
  
 
 <div align="center">
 
 „Wahrheit und ewige Liebe sind die treibenden Kräfte meines Lebens.“
 
-</div>
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&color=C8935A&center=true&width=500&lines=Hi%2C+I+am+Ruowen.;exploring+LLM+%2F+VLM+%2F+Agent" alt="typing" />
+<img src="typing.svg" alt="Hi, I am Ruowen. exploring LLM / VLM / Agent" />
 
-`MS Information Science @ Cornell` `Open to AI / Applied Math research`
+<img src="https://img.shields.io/badge/MS_Information_Science-Cornell-6366F1?style=flat-square&labelColor=1e1b4b" alt="MS Information Science @ Cornell" />
+<img src="https://img.shields.io/badge/Open_to-AI_%2F_Applied_Math_Research-A78BFA?style=flat-square&labelColor=1e1b4b" alt="Open to AI / Applied Math research" />
 
 </div>
 
