@@ -1,9 +1,11 @@
 <div align="center">
 
-<p align="center">„Wahrheit und ewige Liebe sind die treibenden Kräfte meines Lebens.“</p>
+<p align="center">
+  <img src="header.svg" alt="P(X_{n+1} | X_n) — Wahrheit und ewige Liebe sind die treibenden Kräfte meines Lebens." />
+</p>
 
 <p align="center">
-  <img src="typing.svg" alt="Hi, I am Ruowen. exploring LLM / VLM / Agent" />
+  <img src="typing.svg?v=4" alt="Hi, I am Ruowen. building LLM / VLM post-training" />
 </p>
 
 <p align="center">
@@ -13,20 +15,21 @@
 
 </div>
 
+<div align="left">
+
 - Currently an information science master's student at Cornell
-- Exploring LLM / VLM / agents
+- Building LLM / VLM post-training
 - Open to AI or applied mathematics research positions
 - I like math and music
+
+</div>
 
 ---
 
 <div align="center">
 
-**知行合一。**
+<img src="closing.svg" alt="知行合一。未来总是足够绵延，不是吗？" />
 
-未来总是足够绵延，不是吗？
-
-$$P(X_{n+1}\mid X_n, X_{n-1}, \dots, X_1) = P(X_{n+1}\mid X_n)⚛️$$
-
+$${\color{#8B7CFF}P(X_{n+1}\mid X_n, X_{n-1}, \dots, X_1) = P(X_{n+1}\mid X_n)}⚛️$$
 
 </div>
