@@ -3,7 +3,7 @@
 „Wahrheit und ewige Liebe sind die treibenden Kräfte meines Lebens.“
 
 <p align="center">
-  <img src="typing.svg?v=6" alt="Hi, I am Ruowen. Exploring Mathematics & Artificial Intelligence." />
+  <img src="typing.svg?v=7" alt="Hi, I am Ruowen. Exploring Mathematics &amp; Artificial Intelligence." />
 </p>
 
 <p align="center">
