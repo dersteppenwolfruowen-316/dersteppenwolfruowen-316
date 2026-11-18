@@ -16,7 +16,7 @@
 <div align="left">
 
 - Currently an information science master's student at Cornell
-- Building LLM / VLM post-training
+- Interested in Multimodal AI & Generative Models
 - Open to AI or applied mathematics research positions
 - I like math, music, and algorithms
 
