@@ -16,9 +16,9 @@
 <div align="left">
 
 - Currently an information science master's student at Cornell
-- Interested in Multimodal AI & Generative Models
+- Interested in Multimodal AI & Generative Models 
 - Open to AI or applied mathematics research positions
-- I like math, music, and algorithms
+- I love pure mathematics (especially algebra, for the beauty of its structure); love electronic, rock, jazz, and classical music; and love algorithms.
 
 </div>
 
